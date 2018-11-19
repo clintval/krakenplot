@@ -1,0 +1,37 @@
+  0.17	755	755	U	0	unclassified
+ 99.83	449493	0	-	1	root
+ 99.83	449493	0	-	131567	  cellular organisms
+ 99.83	449493	0	D	2759	    Eukaryota
+ 99.83	449493	0	-	33154	      Opisthokonta
+ 99.83	449493	0	K	33208	        Metazoa
+ 99.83	449493	0	-	6072	          Eumetazoa
+ 99.83	449493	0	-	33213	            Bilateria
+ 99.83	449493	0	-	33511	              Deuterostomia
+ 99.83	449493	0	P	7711	                Chordata
+ 99.83	449493	0	-	89593	                  Craniata
+ 99.83	449493	0	-	7742	                    Vertebrata
+ 99.83	449493	0	-	7776	                      Gnathostomata
+ 99.83	449493	0	-	117570	                        Teleostomi
+ 99.83	449493	0	-	117571	                          Euteleostomi
+ 99.83	449493	0	-	8287	                            Sarcopterygii
+ 99.83	449493	0	-	1338369	                              Dipnotetrapodomorpha
+ 99.83	449493	0	-	32523	                                Tetrapoda
+ 99.83	449493	0	-	32524	                                  Amniota
+ 99.83	449493	0	C	40674	                                    Mammalia
+ 99.83	449493	0	-	32525	                                      Theria
+ 99.83	449493	0	-	9347	                                        Eutheria
+ 99.83	449493	0	-	1437010	                                          Boreoeutheria
+ 99.83	449493	7	-	314146	                                            Euarchontoglires
+ 99.83	449486	0	-	314147	                                              Glires
+ 99.83	449486	0	O	9989	                                                Rodentia
+ 99.83	449486	0	-	1963758	                                                  Myomorpha
+ 99.83	449486	0	-	337687	                                                    Muroidea
+ 99.83	449486	0	F	10066	                                                      Muridae
+ 99.83	449486	99	-	39107	                                                        Murinae
+ 99.81	449384	0	G	10088	                                                          Mus
+ 99.81	449384	0	-	862507	                                                            Mus
+ 99.81	449384	0	S	10090	                                                              Mus musculus
+ 99.81	449384	449384	-	39442	                                                                Mus musculus musculus
+  0.00	3	0	G	10114	                                                          Rattus
+  0.00	3	0	S	10116	                                                            Rattus norvegicus
+  0.00	3	3	-	947987	                                                              Rattus norvegicus albus
